@@ -9,7 +9,7 @@ A minimalist Todo App built with React.js, inspired by the learnings from Cs Tel
    - Click on the "Add Todo" button.
 
 2. **Complete a Todo:**
-   - Click on the "Remove" button next to the completed task.
+   - Click on the "Cross" symbol next to the completed task.
    - The Todo item will be moved to the completed list.
 
 
