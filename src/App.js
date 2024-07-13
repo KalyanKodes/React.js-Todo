@@ -57,7 +57,7 @@ export default function App(){
                 }}>Add Todo</button>
             </div>
 
-            <small>There is a small bug! Try to fix😊</small>
+            
             {test}
         </React.Fragment>
     )
